@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "RetailShop.Uno",
+  "display": "standalone",
+  "name": "RetailShop.Uno",
+  "short_name": "RetailShop.Uno",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
